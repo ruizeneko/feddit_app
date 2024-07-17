@@ -102,11 +102,3 @@ Unit tests are provided to validate the functionality of the `/comments` endpoin
 ```bash
 pytest
 ```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository, create a new branch, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
