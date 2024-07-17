@@ -45,7 +45,7 @@ The server will start at `http://localhost:8081`.
   "subfeddit_name": "string",
   "start_time": "string",
   "end_time": "string",
-  "sort_by_polarity": boolean
+  "sort_by_polarity": "boolean"
 }
 ```
 
@@ -69,13 +69,13 @@ The server will start at `http://localhost:8081`.
     {
       "id": 1,
       "text": "string",
-      "polarity": float,
+      "polarity": "float",
       "classification": "string"
     },
     {
       "id": 2,
       "text": "string",
-      "polarity": float,
+      "polarity": "float",
       "classification": "string"
     }
   ]
